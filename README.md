@@ -8,11 +8,13 @@ Este repositório marca o início da minha trajetória de aprendizado em C e C++
 Fundamentos da Linguagem
 Comandos iniciais e estruturas básicas
 Tipos de dados: int, float, char[] (strings)
-Entrada e saída de informações === Até o momento são minhas realizações ===
+Entrada e saída de informações 
 Projetos e Exercícios
 Desafios práticos em C
 Pequenos jogos e aplicações simples
 Projeto de Super Trunfo, utilizando arrays, variáveis e lógica de programação
+
+
 /// Objetivo ///
 
 Este repositório tem como propósito:
